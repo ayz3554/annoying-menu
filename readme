@@ -1,0 +1,3 @@
+install schedule and pyautogui 
+`pip install pyautogui`
+`pip install schedule`
